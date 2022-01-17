@@ -1,2 +1,2 @@
-# CodeAcademy-Data-Manipulation-with-Pandas-Project
-Through the skill path of 'Data Manipulation with Pandas', CodeAcademy developed a project to test the abilities of the user to continuously figure out how to make different DataFrames present desired information. 
+# Overview of the "A/B Testing for ShoeFly.com" project:
+Our favorite online shoe store, ShoeFly.com is performing an A/B Test. They have two different versions of an ad, which they have placed in emails, as well as in banner ads on Facebook, Twitter, and Google. They want to know how the two ads are performing on each of the different platforms on each day of the week. Help them analyze the data using aggregate measures.
